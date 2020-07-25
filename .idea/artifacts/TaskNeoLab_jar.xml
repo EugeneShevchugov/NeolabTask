@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TaskNeoLab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaskNeoLab_jar</output-path>
+    <root id="archive" name="TaskNeoLab.jar">
+      <element id="module-output" name="TaskNeoLab" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
